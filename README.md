@@ -5,8 +5,15 @@ Originally from Madrid, Spain, now based in Miami, I’ve taken an exciting jour
 I love tackling challenges, exploring how AI can solve emerging societal demands, and ensuring technology is applied ethically and meaningfully. My main interests lie in AI research, the creative side of machine learning, and building deep learning models that bring groundbreaking ideas to life.
 
 🌍 Beyond tech, I’m always looking for my next adventure—whether it's traveling, discovering new places, or meeting inspiring people who expand my personal and professional horizons.
+## 🌐 Connect with me  
 
-[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square&logo=google-chrome)](https://www.norange.io/about/)
+[![Follow](https://img.shields.io/github/followers/mdiaz683?label=Follow&style=social)](https://github.com/mdiaz683)  
+[![Profile views](https://komarev.com/ghpvc/?username=mdiaz683&color=blue)](https://github.com/mdiaz683)  
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square&logo=google-chrome)]([https://www.mdiaz683.github.io/](https://mdiaz683.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maria-diaz-alba/)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-darkgray?style=flat&logo=gmail)](mailto:m.mariadiazalba@gmail.com)  
+[![Contact](https://img.shields.io/badge/Contact%20Me-00C897?style=flat)](https://yourcontactpage.com)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariadiazalba/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariadiazalba)
 
