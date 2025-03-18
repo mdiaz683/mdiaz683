@@ -9,7 +9,7 @@ I love tackling challenges, exploring how AI can solve emerging societal demands
 
 [![Follow](https://img.shields.io/github/followers/mdiaz683?label=Follow&style=social)](https://github.com/mdiaz683)  
 [![Profile views](https://komarev.com/ghpvc/?username=mdiaz683&color=blue)](https://github.com/mdiaz683)  
-[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square&logo=google-chrome)]([https://www.mdiaz683.github.io/](https://mdiaz683.github.io/)
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square&logo=google-chrome)](https://mdiaz683.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maria-diaz-alba/)  
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-darkgray?style=flat&logo=gmail)](mailto:m.mariadiazalba@gmail.com)  
 [![Contact](https://img.shields.io/badge/Contact%20Me-00C897?style=flat)](https://yourcontactpage.com)  
