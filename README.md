@@ -1,34 +1,44 @@
-# Hey folks! 🌱
+# Hi there! 👋 I'm Maria Diaz
 
-I'm **Nikita Durasov**, a PhD candidate at EPFL specializing in computer vision, machine learning, and uncertainty estimation.
+Originally from Madrid, Spain, now based in Miami, I’ve taken an exciting journey from forensic sciences and cybersecurity into the world of artificial intelligence. Along the way, I discovered my passion for building impactful tech solutions that connect innovation with real-world needs.
 
-[![GitHub followers](https://img.shields.io/github/followers/NikitaDurasov?label=Follow&style=social)](https://github.com/NikitaDurasov)
-[![Visits Badge](https://komarev.com/ghpvc/?username=NikitaDurasov)](https://github.com/NikitaDurasov)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=KMMvTfcAAAAJ&hl=en)
-[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square&logo=google-chrome)](https://www.norange.io/about/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/durasovnikita/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/nikitadurasov)
+I love tackling challenges, exploring how AI can solve emerging societal demands, and ensuring technology is applied ethically and meaningfully. My main interests lie in AI research, the creative side of machine learning, and building deep learning models that bring groundbreaking ideas to life.
+
+🌍 Beyond tech, I’m always looking for my next adventure—whether it's traveling, discovering new places, or meeting inspiring people who expand my personal and professional horizons.
 
 
+- 🔭 **Key Projects and Research**: AI-driven solutions to assess the risk associated with credentials detected by a Telegram scraping bot - Project selected for the CNN-CERT (National Cryptologic Center) Cyberdefense Conference
+- 🌱 **Industry Experience**: Cyber Intelligence Internship at TRC
+- 🎓  **Education**: MS in Applied Artificial Intelligence & IoT- *Florida International University* | BSC in Forensic Sciences & Technologies - *Universidad de Alcalá*
 
-- 🔭 **Research**: Published in CVPR, ICCV, ICML on topics like neural network robustness, uncertainty, and computer vision.
-- 🌱 **Industry Experience**: Collaborated with NVIDIA, Apple, Amazon, and Samsung on AI and ML solutions.
-- 🎓 **Education**: PhD in Computer Science (EPFL), BS in Applied Mathematics and Physics (MIPT).
-
-<!--![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaDurasov&show_icons=true&theme=radical)-->
 
 ### 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange?logo=pytorch&logoColor=white)
+
+💡 Passionate about AI, IoT, and technology-driven solutions.  
+🚀 Exploring deep learning, machine learning, and smart applications.  
+🔬 Researching AI applications in **fingerprint classification & security systems**.  
+🎓 Master's in IoT & AI | FIU | Raspberry Pi Enthusiast  
+
+---
+
+## 🔧 Tools & Technologies  
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+### Frameworks & Libraries  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-blue?logo=scikit-learn&logoColor=white)
-![Lightning](https://img.shields.io/badge/PyTorch_Lightning-Fast-blue?logo=pytorchlightning&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green?logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-NLP-yellow?logo=huggingface&logoColor=white)
 
 
-<!--
-**nikitadurasov/nikitadurasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Let's Connect!  
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square&logo=google-chrome)](https://www.norange.io/about/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariadiazalba/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariadiazalba)  
 
 Here are some ideas to get you started:
 
