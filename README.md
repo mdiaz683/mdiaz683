@@ -5,7 +5,6 @@ Originally from Madrid, Spain, now based in Miami, I’ve taken an exciting jour
 I love tackling challenges, exploring how AI can solve emerging societal demands, and ensuring technology is applied ethically and meaningfully. My main interests lie in AI research, the creative side of machine learning, and building deep learning models that bring groundbreaking ideas to life.
 
 🌍 Beyond tech, I’m always looking for my next adventure—whether it's traveling, discovering new places, or meeting inspiring people who expand my personal and professional horizons.
-## 🌐 Connect with me  
 
 [![Follow](https://img.shields.io/github/followers/mdiaz683?label=Follow&style=social)](https://github.com/mdiaz683)
 [![Profile views](https://komarev.com/ghpvc/?username=mdiaz683&color=blue)](https://github.com/mdiaz683)
