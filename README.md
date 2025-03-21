@@ -11,9 +11,9 @@ I love tackling challenges, exploring how AI can solve emerging societal demands
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-darkgray?style=flat&logo=gmail)](mailto:m.mariadiazalba@gmail.com)
 
 
-- 🔭 **Key Projects and Research**: AI-driven solutions to assess the risk associated with credentials detected by a Telegram scraping bot - Project selected for the CNN-CERT (National Cryptologic Center) Cyberdefense Conference
-- 🌱 **Industry Experience**: Cyber Intelligence Internship at TRC
-- 🎓  **Education**: MS in Applied Artificial Intelligence & IoT- *Florida International University* | BSC in Forensic Sciences & Technologies - *Universidad de Alcalá*
+- 👩‍💻 **Industry Experience**: Cyber Intelligence Internship at TRC
+- 🎓 **Education**: MS in Applied Artificial Intelligence & IoT- *Florida International University* | BSC in Forensic Sciences & Technologies - *Universidad de Alcalá*
+- 🔭 **Insights**: Developed AI-driven solution to assess the risk associated with credentials detected by a Telegram scraping bot - Speaker at the CNN-CERT (National Cryptologic Center) Cyberdefense Conference
 
 
 ### Languages  
